@@ -1,0 +1,1 @@
+WMS PRODUCT  This electronic product is available via Warehouse Management System (WMS) on-line ordering.   You must use your DoD email CA-XX certificate to login.    https://wmsweb.afncr.af.mil/wms/ 
